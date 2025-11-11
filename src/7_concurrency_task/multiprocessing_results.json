@@ -1,0 +1,18 @@
+[
+  {
+    "method": "Single Thread",
+    "time_seconds": 0.085
+  },
+  {
+    "method": "Thread Pool",
+    "time_seconds": 3.085
+  },
+  {
+    "method": "Process Pool",
+    "time_seconds": 0.4559
+  },
+  {
+    "method": "Queue-based",
+    "time_seconds": 4.7628
+  }
+]

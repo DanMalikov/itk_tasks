@@ -1,0 +1,7 @@
+https://httpbin.org/json
+https://httpbin.org/anything
+https://jsonplaceholder.typicode.com/todos/1
+https://httpbin.org/delay/2
+https://httpbin.org/delay/3
+https://httpbin.org/status/404
+https://example.com
